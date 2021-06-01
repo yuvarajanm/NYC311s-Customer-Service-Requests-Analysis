@@ -26,3 +26,5 @@ Domain: Customer Service
 
     5.1 Whether the average response time across complaint types is similar or not (overall)
     5.2 Are the type of complaint or service requested and location related?
+   
+Note: Some plots are not visiuble in the code file please dowload and have a look at html file for getting complete analysis details
